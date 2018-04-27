@@ -94,6 +94,6 @@
 		}
 	});
 	avalon.scan();
-	app.form.url = 'http://item.taobao.com/item.htm?spm=a217f.1766217.1998475082.1.hISzwI&id=520035789858';
+	app.form.url = 'https://item.taobao.com/item.htm?spm=a1z09.2.0.0.610f2e8dpwfXSo&id=566043568956&_u=r175hrfe39f';
 })();
 </script>

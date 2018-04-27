@@ -8,3 +8,7 @@
 
 欢迎大家git。
 
+演示地址
+
+http://amymob.com/demo/taobao_thumb/
+
